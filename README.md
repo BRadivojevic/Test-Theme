@@ -8,7 +8,7 @@ Description: Basic theme made using Underscores.
 
 Tags: WordPress, Theme, Custom, Responsive
 
-# Table of Contents:
+Table of Contents:
 Theme Features
 Customization
 Theme Flexibility
